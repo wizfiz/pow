@@ -1,0 +1,5 @@
+*.o
+*.swp
+/pow
+/powd
+/src/client/game.c
